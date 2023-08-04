@@ -1,16 +1,28 @@
-### Hi there 👋
+### ¡Hola! 👋 Soy Mauricio Chambi 👨‍💻
 
-<!--
-**De1t4/De1t4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Sobre mí
+Soy un apasionado desarrollador web con experiencia en tecnologías como React, JavaScript y CSS. Me encanta enfrentar nuevos desafíos y aprender constantemente para mejorar mis habilidades en el mundo del desarrollo.
 
-Here are some ideas to get you started:
+#### Proyectos Destacados 🚀
+- [Portfolio Personal](https://de1t4.github.io/portfolio/): Un sitio web personal que muestra mi experiencia y proyectos desarrollados.
+- [API Countries](https://countries-api-rest-react.netlify.app/): Una aplicación para la busqueda de informacion de diferentes paises.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Habilidades Técnicas 💻
+- JavaScript (ES6+)
+- React
+- HTML5
+- CSS3
+- Python
+- Lenguaje C
+- Flask
+- MySQL
+- Git / Github
+- Netlify
+
+#### Contacto 📬
+- LinkedIn: [LinkedIn.com/in/tuusuario](https://www.linkedin.com/in/mauricio-chambi-7a90b724a/)
+- Email: mauriciochambicaceres@gmail.com
+
+<!--- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=De1t4&show_icons=true&theme=radical)--!>
+
+¡Siéntete libre de explorar mis proyectos y contactarme si tienes alguna pregunta o propuesta de colaboración! Estoy emocionado de conocer nuevos desarrolladores y trabajar en proyectos interesantes juntos.
