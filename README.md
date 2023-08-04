@@ -22,7 +22,5 @@ Soy un apasionado desarrollador web con experiencia en tecnologías como React, 
 #### Contacto 📬
 - LinkedIn: [LinkedIn.com/in/tuusuario](https://www.linkedin.com/in/mauricio-chambi-7a90b724a/)
 - Email: mauriciochambicaceres@gmail.com
-
-<!--- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=De1t4&show_icons=true&theme=radical)--!>
-
+- 
 ¡Siéntete libre de explorar mis proyectos y contactarme si tienes alguna pregunta o propuesta de colaboración! Estoy emocionado de conocer nuevos desarrolladores y trabajar en proyectos interesantes juntos.
