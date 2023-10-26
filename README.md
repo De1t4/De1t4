@@ -1,5 +1,5 @@
 <h2 >¡Hola! 👋 Soy Mauricio Chambi 👨‍💻</h2> 
-<img src="https://mauricio-chambi.netlify.app/LogoPage.png" width="100px" height="100px" style="margin-auto"/>
+<img src="https://mauricio-chambi.netlify.app/LogoPage.png" width="100px" height="100px" style="margin: auto;"/>
 <h3>Sobre mí</h3>
 Soy un apasionado desarrollador web con experiencia en tecnologías como React, JavaScript y CSS. Me encanta enfrentar nuevos desafíos y aprender constantemente para mejorar mis habilidades en el mundo del desarrollo.
 
