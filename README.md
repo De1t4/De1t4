@@ -7,7 +7,7 @@ Soy un apasionado desarrollador web con experiencia en tecnologías como React, 
 
 - <a target="_blank" href="https://thinderpet.vercel.app/">ThinderPet</a>: Un sitio web para la busqueda de pareja para tu compañero peludo.<br>
 - <a target="_blank" href="https://mauricio-chambi.netlify.app">Portfolio Personal</a>: Un sitio web personal que muestra mi experiencia y proyectos desarrollados.<br>
--- <a target="_blank" href="https://countries-api-rest-react.netlify.app">Una aplicación para la busqueda de informacion de diferentes paises.<br>
+-- <a target="_blank" href="https://countries-api-rest-react.netlify.app">App de Paises</a>:Una aplicación para la busqueda de informacion de diferentes paises.<br>
 
 <h3>Habilidades Técnicas 💻</h3>
 - JavaScript
