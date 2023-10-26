@@ -8,7 +8,7 @@ Soy un apasionado desarrollador web con experiencia en tecnologías como React, 
 - [Portfolio Personal](https://mauricio-chambi.netlify.app/): Un sitio web personal que muestra mi experiencia y proyectos desarrollados.
 - [API Countries](https://countries-api-rest-react.netlify.app/): Una aplicación para la busqueda de informacion de diferentes paises.
 
-#### Habilidades Técnicas 💻
+<h1>#### Habilidades Técnicas 💻</h1>
 - JavaScript
 - TypeScript
 - React.Js
