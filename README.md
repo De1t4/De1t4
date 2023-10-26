@@ -4,17 +4,19 @@
 Soy un apasionado desarrollador web con experiencia en tecnologías como React, JavaScript y CSS. Me encanta enfrentar nuevos desafíos y aprender constantemente para mejorar mis habilidades en el mundo del desarrollo.
 
 #### Proyectos Destacados 🚀
-- [Portfolio Personal](https://de1t4.github.io/portfolio/): Un sitio web personal que muestra mi experiencia y proyectos desarrollados.
+- [ThinderPet](https://thinderpet.vercel.app/): Un sitio web para la busqueda de pareja para tu compañero peludo.
+- [Portfolio Personal](https://mauricio-chambi.netlify.app/): Un sitio web personal que muestra mi experiencia y proyectos desarrollados.
 - [API Countries](https://countries-api-rest-react.netlify.app/): Una aplicación para la busqueda de informacion de diferentes paises.
 
 #### Habilidades Técnicas 💻
-- JavaScript (ES6+)
-- React
+- JavaScript
+- TypeScript
+- React.Js
+- Next.Js
 - HTML5
 - CSS3
 - Python
 - Lenguaje C
-- Flask
 - MySQL
 - Git / Github
 - Netlify
