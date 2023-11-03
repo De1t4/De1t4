@@ -5,22 +5,21 @@ Soy un apasionado desarrollador web con experiencia en tecnologías como React, 
 
 <h3>Proyectos Destacados 🚀</h3> 
 
+-- <a target="_blank" href="https://nearbytour.vercel.app/home">NearbyTour</a>: Un aplicación para encontrar nuevos lugares para disfrutar en nuestros tiempos libres.<br>
 - <a target="_blank" href="https://thinderpet.vercel.app/">ThinderPet</a>: Un sitio web para la busqueda de pareja para tu compañero peludo.<br>
 - <a target="_blank" href="https://mauricio-chambi.netlify.app">Portfolio Personal</a>: Un sitio web personal que muestra mi experiencia y proyectos desarrollados.<br>
 - <a target="_blank" href="https://countries-api-rest-react.netlify.app">App de Paises</a>: Una aplicación para la busqueda de informacion de diferentes paises.<br>
 
 <h3>Habilidades Técnicas 💻</h3>
-- JavaScript
-- TypeScript
-- React.Js
-- Next.Js
-- HTML5
-- CSS3
-- Python
-- Lenguaje C
-- MySQL
-- Git / Github
-- Netlify
+<b>Base de Datos:</b>SQLite, MySQL Workbench
+<b>Lenguajes de Programación:</b>JavaScript, C, Python, TypeScript
+<b>Frameworks: </b>React Js, FastAPI, Next Js
+<b>Herramientas de Diseño:</b>Tailwind, SaSS
+<b>Control de Versiones:</b>Git/GitHub
+<b>Metodologías Ágiles: </b>Scrum
+<b>Maquetación:</b>HTML, CSS
+<b>Otras herramientas:</b>Postman, Trello
+
 
 <h3>Contacto 📬</h3>
 - LinkedIn: [https://www.linkedin.com/in/mauricio-chambi-7a90b724a/]<br>
