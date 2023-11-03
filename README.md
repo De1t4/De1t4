@@ -5,20 +5,20 @@ Soy un apasionado desarrollador web con experiencia en tecnologías como React, 
 
 <h3>Proyectos Destacados 🚀</h3> 
 
--- <a target="_blank" href="https://nearbytour.vercel.app/home">NearbyTour</a>: Un aplicación para encontrar nuevos lugares para disfrutar en nuestros tiempos libres.<br>
+- <a target="_blank" href="https://nearbytour.vercel.app/home">NearbyTour</a>: Un aplicación para encontrar nuevos lugares para disfrutar en nuestros tiempos libres.<br>
 - <a target="_blank" href="https://thinderpet.vercel.app/">ThinderPet</a>: Un sitio web para la busqueda de pareja para tu compañero peludo.<br>
 - <a target="_blank" href="https://mauricio-chambi.netlify.app">Portfolio Personal</a>: Un sitio web personal que muestra mi experiencia y proyectos desarrollados.<br>
 - <a target="_blank" href="https://countries-api-rest-react.netlify.app">App de Paises</a>: Una aplicación para la busqueda de informacion de diferentes paises.<br>
 
 <h3>Habilidades Técnicas 💻</h3>
-<b>Base de Datos:</b>SQLite, MySQL Workbench<br>
-<b>Lenguajes de Programación:</b>JavaScript, C, Python, TypeScript<br>
-<b>Frameworks: </b>React Js, FastAPI, Next Js<br>
-<b>Herramientas de Diseño:</b>Tailwind, SaSS<br>
-<b>Control de Versiones:</b>Git/GitHub<br>
-<b>Metodologías Ágiles: </b>Scrum<br>
-<b>Maquetación:</b>HTML, CSS<br>
-<b>Otras herramientas:</b>Postman, Trello<br>
+- <b>Base de Datos:</b>SQLite, MySQL Workbench<br>
+- <b>Lenguajes de Programación:</b>JavaScript, C, Python, TypeScript<br>
+- <b>Frameworks: </b>React Js, FastAPI, Next Js<br>
+- <b>Herramientas de Diseño:</b>Tailwind, SaSS<br>
+- <b>Control de Versiones:</b>Git/GitHub<br>
+- <b>Metodologías Ágiles: </b>Scrum<br>
+- <b>Maquetación:</b>HTML, CSS<br>
+- <b>Otras herramientas:</b>Postman, Trello<br>
 
 
 <h3>Contacto 📬</h3>
