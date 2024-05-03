@@ -1,10 +1,13 @@
-<h2 >¡Hola! 👋 Soy Mauricio Chambi 👨‍💻</h2> 
-<img src="https://mauricio-chambi.netlify.app/LogoPage.png" width="100px" height="100px" style="margin: auto;"/>
-<h3>Sobre mí</h3>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <h2 >¡Hola! 👋 Soy Mauricio Chambi 👨‍💻</h2> 
+  <img src="https://mauricio-chambi.netlify.app/LogoPage.png" width="100px" height="100px" style="margin: auto;"/>
+  <h3>Sobre mí</h3>
+</div>
 Soy un apasionado desarrollador web con experiencia en tecnologías como React, JavaScript y CSS. Me encanta enfrentar nuevos desafíos y aprender constantemente para mejorar mis habilidades en el mundo del desarrollo.
 
 <h3>Proyectos Destacados 🚀</h3> 
 
+- <a target="_blank" href="https://drinkventry.netlify.app/">DrinkVentry</a>: Un aplicación para la gestión de inventario de bebidas.<br>
 - <a target="_blank" href="https://nearbytour.vercel.app/home">NearbyTour</a>: Un aplicación para encontrar nuevos lugares para disfrutar en nuestros tiempos libres.<br>
 - <a target="_blank" href="https://thinderpet.vercel.app/">ThinderPet</a>: Un sitio web para la busqueda de pareja para tu compañero peludo.<br>
 - <a target="_blank" href="https://mauricio-chambi.netlify.app">Portfolio Personal</a>: Un sitio web personal que muestra mi experiencia y proyectos desarrollados.<br>
@@ -15,10 +18,8 @@ Soy un apasionado desarrollador web con experiencia en tecnologías como React, 
 - <b>Lenguajes de Programación:</b> JavaScript, C, Python, TypeScript<br>
 - <b>Frameworks: </b> React Js, FastAPI, Next Js<br>
 - <b>Herramientas de Diseño:</b> Tailwind, SaSS<br>
-- <b>Control de Versiones:</b> Git/GitHub<br>
 - <b>Metodologías Ágiles: </b> Scrum<br>
-- <b>Maquetación:</b> HTML, CSS<br>
-- <b>Otras herramientas:</b> Postman, Trello<br>
+- <b>Otras herramientas:</b> Postman, Trello, Jira<br>
 
 
 <h3>Contacto 📬</h3>
