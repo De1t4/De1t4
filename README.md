@@ -20,19 +20,35 @@ Soy un **Desarrollador Frontend** con experiencia en tecnologías como **React**
 - <a target="_blank" href="https://countries-api-rest-react.netlify.app">App de Paises</a>: Una aplicación para la busqueda de informacion de diferentes paises.<br>
 
 ### 💻 &nbsp;Habilidades Técnicas
-- <b>Base de Datos:</b> SQLite, MySQL Workbench<br>
-- <b>Lenguajes de Programación:</b> JavaScript, Java, Python, TypeScript<br>
-- <b>Frameworks: </b> React Js, FastAPI, Next Js<br>
-- <b>Herramientas de Diseño:</b> Tailwind CSS, CSS <br>
-- <b>Metodologías Ágiles: </b> Scrum<br>
-- <b>Otras herramientas:</b> Postman, Trello, Jira<br>
+- <b>Base de Datos:</b> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" width="40" height="40"/><br>
+
+- <b>Lenguajes de Programación:</b> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/><br>
+
+- <b>Frameworks:</b> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40"/><br>
+
+- <b>Herramientas de Diseño:</b> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/><br>
+
+- <b>Metodologías Ágiles:</b> Scrum<br>
+
+- <b>Otras herramientas:</b> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="40" height="40"/>
 
 ### 📬 &nbsp;Contacto
 
 <a href="https://www.linkedin.com/in/mauricio-chambi-7a90b724a/"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
-
-<br>
-
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
