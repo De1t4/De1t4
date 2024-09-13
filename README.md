@@ -11,9 +11,6 @@ Soy un **Desarrollador Frontend** con experiencia en tecnologías como **React**
   
 <h3>Proyectos Destacados 🚀</h3> 
 
-  
-<h3>Proyectos Destacados 🚀</h3> 
-
 - <a targer="_blank" href="https://digital-corner.netlify.app/">Digital Corner</a>: Actualmente estoy desarrollando una aplicación que te permite compartir tus posts y conectar con nuevas personas.<br>
 - <a target="_blank" href="https://drinkventry.netlify.app/">DrinkVentry</a>: Un aplicación para la gestión de inventario de bebidas.<br>
 - <a target="_blank" href="https://nearbytour.vercel.app/home">NearbyTour</a>: Un aplicación para encontrar nuevos lugares para disfrutar en nuestros tiempos libres.<br>
@@ -23,9 +20,9 @@ Soy un **Desarrollador Frontend** con experiencia en tecnologías como **React**
 
 <h3>Habilidades Técnicas 💻</h3>
 - <b>Base de Datos:</b> SQLite, MySQL Workbench<br>
-- <b>Lenguajes de Programación:</b> JavaScript, C, Python, TypeScript<br>
+- <b>Lenguajes de Programación:</b> JavaScript, Java, Python, TypeScript<br>
 - <b>Frameworks: </b> React Js, FastAPI, Next Js<br>
-- <b>Herramientas de Diseño:</b> Tailwind, SaSS<br>
+- <b>Herramientas de Diseño:</b> Tailwind CSS, CSS <br>
 - <b>Metodologías Ágiles: </b> Scrum<br>
 - <b>Otras herramientas:</b> Postman, Trello, Jira<br>
 
