@@ -34,8 +34,6 @@ Soy un **Desarrollador Frontend** con experiencia en tecnologías como **React**
 <br>
 <div align="center">
   ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=De1t4&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=De1t4&layout=compact)
-
 </div>
 
 <br>
