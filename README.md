@@ -29,7 +29,7 @@ Soy un **Desarrollador Frontend** con experiencia en tecnologías como **React**
 
 ### 📬 &nbsp;Contacto
 
-<a href="https://www.linkedin.com/in/mauricio-chambi-7a90b724a/"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a
+<a href="https://www.linkedin.com/in/mauricio-chambi-7a90b724a/"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
 
 <br>
 
