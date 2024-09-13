@@ -7,7 +7,7 @@ Soy un apasionado desarrollador web con experiencia en tecnologías como React, 
 
 <h3>Proyectos Destacados 🚀</h3> 
 
-- Digital Corner: Actualmente estoy desarrollando una aplicación que te permite compartir tus posts y conectar con nuevas personas.<br>
+- <a targer="_blank" href="https://digital-corner.netlify.app/">Digital Corner</a>: Actualmente estoy desarrollando una aplicación que te permite compartir tus posts y conectar con nuevas personas.<br>
 - <a target="_blank" href="https://drinkventry.netlify.app/">DrinkVentry</a>: Un aplicación para la gestión de inventario de bebidas.<br>
 - <a target="_blank" href="https://nearbytour.vercel.app/home">NearbyTour</a>: Un aplicación para encontrar nuevos lugares para disfrutar en nuestros tiempos libres.<br>
 - <a target="_blank" href="https://thinderpet.vercel.app/">ThinderPet</a>: Un sitio web para la busqueda de pareja para tu compañero peludo.<br>
