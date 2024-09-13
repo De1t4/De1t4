@@ -5,6 +5,10 @@
 </div>
 Soy un apasionado desarrollador web con experiencia en tecnologías como React, JavaScript y CSS. Me encanta enfrentar nuevos desafíos y aprender constantemente para mejorar mis habilidades en el mundo del desarrollo.
 
+- 💼 Actualmente trabajando en proyectos freelance y estudiando **Análisis de Sistemas**.
+- 🏆 Finalista en la **Hackathon Justina.IO**.
+- 💡 Interesado en proyectos que involucren **React** y **Java**.
+  
 <h3>Proyectos Destacados 🚀</h3> 
 
 - <a targer="_blank" href="https://digital-corner.netlify.app/">Digital Corner</a>: Actualmente estoy desarrollando una aplicación que te permite compartir tus posts y conectar con nuevas personas.<br>
