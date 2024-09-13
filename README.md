@@ -33,10 +33,12 @@ Soy un **Desarrollador Frontend** con experiencia en tecnologías como **React**
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=De1t4&show_icons=true&theme=radical" width="400" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=De1t4&layout=compact&theme=radical" width="400" height="200"/>
-</div>
+<p align="center">
+  <a href="https://github.com/De1t4">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=De1t4&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=De1t4&layout=compact&langs_count=8&theme=radical">
+  </a>
+</p>
 
 <br>
 ¡Siéntete libre de explorar mis proyectos y contactarme si tienes alguna pregunta o propuesta de colaboración! Estoy emocionado de conocer nuevos desarrolladores y trabajar en proyectos interesantes juntos.
