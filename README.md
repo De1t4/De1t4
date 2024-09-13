@@ -6,8 +6,11 @@
 Soy un **Desarrollador Frontend** con experiencia en tecnologías como **React**, **Tailwind CSS**, **Java (Spring Boot)**, **MySQL**, y **Next.js**. Me apasiona crear aplicaciones que mejoren la vida de las personas. Me encanta enfrentar nuevos desafíos y aprender constantemente para mejorar mis habilidades en el mundo del desarrollo.
 
 - 💼 Actualmente trabajando en proyectos freelance y estudiando **Análisis de Sistemas**.
-- 🏆 Finalista en la **Hackathon Justina.IO**.
-- 💡 Interesado en proyectos que involucren **React** y **Java**.
+- 🏆 Finalista en la <a target="_blank" href="https://drive.google.com/file/d/1dsnGmJF38at_e3ZymZZvB7vwHD_6UYz7/view">**Hackathon Justina.IO**</a>.
+- 💡 Interesado en proyectos que involucren **React** y **Java** ☕.
+  
+<h3>Proyectos Destacados 🚀</h3> 
+
   
 <h3>Proyectos Destacados 🚀</h3> 
 
