@@ -28,7 +28,7 @@ Soy un **Desarrollador Frontend** con experiencia en tecnologías como **React**
 
 ### 📬 &nbsp;Contacto
 
-- LinkedIn: [https://www.linkedin.com/in/mauricio-chambi-7a90b724a/] <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /><br>
+- LinkedIn: [https://www.linkedin.com/in/mauricio-chambi-7a90b724a/] <img width="200px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /><br>
 - Email: mauriciochambicaceres@gmail.com<br>
 
 <br>
