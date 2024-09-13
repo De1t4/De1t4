@@ -35,7 +35,7 @@ Soy un **Desarrollador Frontend** con experiencia en tecnologías como **React**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=De1t4&show_icons=true&theme=radical" width="400" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=De1t4&layout=compact&theme=radical" width="350" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=De1t4&layout=compact&theme=radical" width="400" height="150"/>
 </div>
 
 <br>
