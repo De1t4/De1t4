@@ -27,7 +27,8 @@ Soy un **Desarrollador Frontend** con experiencia en tecnologías como **React**
 - <b>Otras herramientas:</b> Postman, Trello, Jira<br>
 
 ### 📬 &nbsp;Contacto
-- LinkedIn: [https://www.linkedin.com/in/mauricio-chambi-7a90b724a/]<br>
+
+- <i class="devicon-linkedin-plain colored"></i><a target="_blank" href="https://www.linkedin.com/in/mauricio-chambi-7a90b724a/"></a>
 - Email: mauriciochambicaceres@gmail.com<br>
 
 <br>
