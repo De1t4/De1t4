@@ -9,7 +9,8 @@ Soy un **Desarrollador Frontend** con experiencia en tecnologías como **React**
 - 💼 Actualmente trabajando en proyectos freelance y estudiando **Análisis de Sistemas**.
 - 🏆 Finalista en la <a target="_blank" href="https://drive.google.com/file/d/1dsnGmJF38at_e3ZymZZvB7vwHD_6UYz7/view">**Hackathon Justina.IO**</a>.
 - 💡 Interesado en proyectos que involucren **React** y **Java** ☕.
-  
+- 📧 Puedes hablarme aqui: mauriciochambicaceres@gmail.com
+
 ### 🚀 &nbsp;Proyectos Destacados
 - <a targer="_blank" href="https://digital-corner.netlify.app/">Digital Corner</a>: Actualmente estoy desarrollando una aplicación que te permite compartir tus posts y conectar con nuevas personas.<br>
 - <a target="_blank" href="https://drinkventry.netlify.app/">DrinkVentry</a>: Un aplicación para la gestión de inventario de bebidas.<br>
@@ -28,8 +29,7 @@ Soy un **Desarrollador Frontend** con experiencia en tecnologías como **React**
 
 ### 📬 &nbsp;Contacto
 
-- <a href="https://www.linkedin.com/in/mauricio-chambi-7a90b724a/"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a><br>
-- Email: mauriciochambicaceres@gmail.com<br>
+<a href="https://www.linkedin.com/in/mauricio-chambi-7a90b724a/"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a
 
 <br>
 
