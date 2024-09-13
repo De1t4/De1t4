@@ -3,7 +3,7 @@
   <img src="https://mauricio-chambi.netlify.app/LogoPage.png" width="100px" height="100px" style="margin: auto;"/>
   <h3>Sobre mí</h3>
 </div>
-Soy un apasionado desarrollador web con experiencia en tecnologías como React, JavaScript y CSS. Me encanta enfrentar nuevos desafíos y aprender constantemente para mejorar mis habilidades en el mundo del desarrollo.
+Soy un **Desarrollador Frontend** con experiencia en tecnologías como **React**, **Tailwind CSS**, **Java (Spring Boot)**, **MySQL**, y **Next.js**. Me apasiona crear aplicaciones que mejoren la vida de las personas. Me encanta enfrentar nuevos desafíos y aprender constantemente para mejorar mis habilidades en el mundo del desarrollo.
 
 - 💼 Actualmente trabajando en proyectos freelance y estudiando **Análisis de Sistemas**.
 - 🏆 Finalista en la **Hackathon Justina.IO**.
