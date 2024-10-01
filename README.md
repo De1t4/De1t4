@@ -21,7 +21,7 @@ Soy un **Desarrollador Frontend** con experiencia en tecnologías como **React**
 
 ### 💻 &nbsp;Habilidades Técnicas
 - <b>Base de Datos:</b> SQL, MySQL Workbench<br>
-- <b>Lenguajes de Programación:</b> JavaScript, Java, Python, TypeScript<br>
+- <b>Lenguajes de Programación:</b> JavaScript, Java, TypeScript<br>
 - <b>Frameworks: </b> React JS, FastAPI, Next JS<br>
 - <b>Herramientas de Diseño:</b> Tailwind CSS, CSS <br>
 - <b>Metodologías Ágiles: </b> Scrum, Kanban<br>
