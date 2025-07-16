@@ -3,7 +3,6 @@
   <img src="https://mauricio-chambi.netlify.app/LogoPage.png" width="200px" height="200px"/>
 </div>
 
-<div align="center">
 ### 👨‍💻 &nbsp;Sobre mí
 Soy un **Desarrollador Web** y **Analista en Sistemas** con experiencia en tecnologías como **React**, **Tailwind CSS**, **Java**, **Spring Boot** , **MySQL**, y **Next.js**. Me apasiona crear aplicaciones que mejoren la vida de las personas. Me encanta enfrentar nuevos desafíos y aprender constantemente para mejorar mis habilidades en el mundo del desarrollo.
 
@@ -11,7 +10,6 @@ Soy un **Desarrollador Web** y **Analista en Sistemas** con experiencia en tecno
 - 🏆 Finalista en la <a target="_blank" href="https://drive.google.com/file/d/1dsnGmJF38at_e3ZymZZvB7vwHD_6UYz7/view">**Hackathon Justina.IO**</a>.
 - 💡 Interesado en proyectos que involucren **React** y **Java** ☕. También estoy abierto a nuevas experiencias que me permitan seguir creciendo profesional y personalmente.
 - 📧 Puedes hablarme aqui: mauriciochambicaceres@gmail.com
-</div>
 
 ### 🚀 &nbsp;Proyectos Destacados
 - <a targer="_blank" href="https://digital-corner.netlify.app/">Digital Corner</a>: Actualmente estoy desarrollando una aplicación que te permite compartir tus posts y conectar con nuevas personas.<br>
