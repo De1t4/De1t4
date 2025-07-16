@@ -4,7 +4,8 @@
 </div>
 
 ### 👨‍💻 &nbsp;Sobre mí
-Soy un **Desarrollador Web** con experiencia en tecnologías como **React**, **Tailwind CSS**, **Java**, **Spring Boot** , **MySQL**, y **Next.js**. Me apasiona crear aplicaciones que mejoren la vida de las personas. Me encanta enfrentar nuevos desafíos y aprender constantemente para mejorar mis habilidades en el mundo del desarrollo.
+<hr/>
+Soy un **Desarrollador Web** y **Analista en Sistemas** con experiencia en tecnologías como **React**, **Tailwind CSS**, **Java**, **Spring Boot** , **MySQL**, y **Next.js**. Me apasiona crear aplicaciones que mejoren la vida de las personas. Me encanta enfrentar nuevos desafíos y aprender constantemente para mejorar mis habilidades en el mundo del desarrollo.
 
 - 💼 Actualmente trabajando en proyectos freelance y estudiando **Informatica Aplicada**.
 - 🏆 Finalista en la <a target="_blank" href="https://drive.google.com/file/d/1dsnGmJF38at_e3ZymZZvB7vwHD_6UYz7/view">**Hackathon Justina.IO**</a>.
