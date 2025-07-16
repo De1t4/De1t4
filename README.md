@@ -20,32 +20,13 @@ Soy un **Desarrollador Web** y **Analista en Sistemas** con experiencia en tecno
 - <a target="_blank" href="https://countries-api-rest-react.netlify.app">App de Paises</a>: Una aplicación para la busqueda de informacion de diferentes paises.<br>
 
 ### 💻 &nbsp;Habilidades Técnicas
----
 
-<p align="left">
-  <!-- Bases de Datos -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/>
-  
-  <!-- Lenguajes -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-
-  <!-- Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-
-  <!-- Diseño -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-
-  <!-- Herramientas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
-</p>
+- <b>Base de Datos:</b> SQL, MySQL Workbench<br>
+- <b>Lenguajes de Programación:</b> JavaScript, Java, TypeScript<br>
+- <b>Frameworks: </b> React JS, Spring Boot, Next JS<br>
+- <b>Herramientas de Diseño:</b> Tailwind CSS, CSS <br>
+- <b>Metodologías Ágiles: </b> Scrum, Kanban<br>
+- <b>Otras herramientas:</b> Postman, Trello, Jira<br>
 
 ### 📬 &nbsp;Contacto
 
