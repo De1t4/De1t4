@@ -4,14 +4,14 @@
 </div>
 
 ### 👨‍💻 &nbsp;Sobre mí
-<hr/>
+<div align="center">
 Soy un **Desarrollador Web** y **Analista en Sistemas** con experiencia en tecnologías como **React**, **Tailwind CSS**, **Java**, **Spring Boot** , **MySQL**, y **Next.js**. Me apasiona crear aplicaciones que mejoren la vida de las personas. Me encanta enfrentar nuevos desafíos y aprender constantemente para mejorar mis habilidades en el mundo del desarrollo.
 
 - 💼 Actualmente trabajando en proyectos freelance y estudiando **Informatica Aplicada**.
 - 🏆 Finalista en la <a target="_blank" href="https://drive.google.com/file/d/1dsnGmJF38at_e3ZymZZvB7vwHD_6UYz7/view">**Hackathon Justina.IO**</a>.
 - 💡 Interesado en proyectos que involucren **React** y **Java** ☕. También estoy abierto a nuevas experiencias que me permitan seguir creciendo profesional y personalmente.
 - 📧 Puedes hablarme aqui: mauriciochambicaceres@gmail.com
-
+</div>
 ### 🚀 &nbsp;Proyectos Destacados
 - <a targer="_blank" href="https://digital-corner.netlify.app/">Digital Corner</a>: Actualmente estoy desarrollando una aplicación que te permite compartir tus posts y conectar con nuevas personas.<br>
 - <a target="_blank" href="https://drinkventry.netlify.app/">DrinkVentry</a>: Un aplicación para la gestión de inventario de bebidas.<br>
