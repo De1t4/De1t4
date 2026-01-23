@@ -4,11 +4,10 @@
 </div>
 
 ### 👨‍💻 &nbsp;Sobre mí
-Soy un **Desarrollador Web** y **Analista en Sistemas** con experiencia en tecnologías como **React**, **Tailwind CSS**, **Java**, **Spring Boot** , **MySQL**, y **Next.js**. Me apasiona crear aplicaciones que mejoren la vida de las personas. Me encanta enfrentar nuevos desafíos y aprender constantemente para mejorar mis habilidades en el mundo del desarrollo.
+Apasionado en crear experiencias web de alto rendimiento con React, TypeScript y Java. Donde veo un problema, construyo una solución. He desarrollado mi carrera gestionando proyectos de inicio a fin, liderando desarrollo y colaborando con equipos multidisciplinarios para lanzar productos al mercado. Estoy abierto a nuevas experiencias que me permitan seguir creciendo profesional.
 
-- 💼 Actualmente trabajando en proyectos freelance y estudiando **Informatica Aplicada**.
+- 💼 Actualmente trabajando en proyectos freelance y estudiando **Ciencia de Datos**.
 - 🏆 Finalista en la <a target="_blank" href="https://drive.google.com/file/d/1dsnGmJF38at_e3ZymZZvB7vwHD_6UYz7/view">**Hackathon Justina.IO**</a>.
-- 💡 Interesado en proyectos que involucren **React** y **Java** ☕. También estoy abierto a nuevas experiencias que me permitan seguir creciendo profesional y personalmente.
 - 📧 Puedes hablarme aqui: mauriciochambicaceres@gmail.com
 
 ### 🚀 &nbsp;Proyectos Destacados
