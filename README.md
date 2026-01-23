@@ -12,12 +12,12 @@ Soy un **Desarrollador Web** y **Analista en Sistemas** con experiencia en tecno
 - 📧 Puedes hablarme aqui: mauriciochambicaceres@gmail.com
 
 ### 🚀 &nbsp;Proyectos Destacados
-- <a targer="_blank" href="https://digital-corner.netlify.app/">Digital Corner</a>: Actualmente estoy desarrollando una aplicación que te permite compartir tus posts y conectar con nuevas personas.<br>
+- <a targer="_blank" href="https://primarket.codershub.top/">Primarket</a>: Actualmente estoy desarrollando un ecommerce B2B con el objetivo de impactar en el marcado de las materias primas<br>
+- <a target="_blank" href="https://github.com/De1t4/ejercito-project-react-typescript">Military App</a>: Aplicación web que simula un entorno de gestión militar, permitiendo la administración basada en roles, la asignación de servicios.<br>
+- <a targer="_blank" href="https://digital-corner.netlify.app/">Digital Corner</a>: Una aplicación que te permite compartir tus posts y conectar con nuevas personas.<br>
 - <a target="_blank" href="https://drinkventry.netlify.app/">DrinkVentry</a>: Un aplicación para la gestión de inventario de bebidas.<br>
 - <a target="_blank" href="https://nearbytour.vercel.app/home">NearbyTour</a>: Un aplicación para encontrar nuevos lugares para disfrutar en nuestros tiempos libres.<br>
-- <a target="_blank" href="https://thinderpet.vercel.app/">ThinderPet</a>: Un sitio web para la busqueda de pareja para tu compañero peludo.<br>
 - <a target="_blank" href="https://mauricio-chambi.netlify.app">Portfolio Personal</a>: Un sitio web personal que muestra mi experiencia y proyectos desarrollados.<br>
-- <a target="_blank" href="https://countries-api-rest-react.netlify.app">App de Paises</a>: Una aplicación para la busqueda de informacion de diferentes paises.<br>
 
 ### 💻 &nbsp;Stack de Tecnologías
 
