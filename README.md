@@ -11,6 +11,7 @@ Apasionado en crear experiencias web de alto rendimiento con React, TypeScript y
 - 📧 Puedes hablarme aqui: mauriciochambicaceres@gmail.com
 
 ### 🚀 &nbsp;Proyectos Destacados
+- <a targer="_blank" href="https://github.com/De1t4/data-science-portfolio">Porfolio de Ciencia de Datos</a>: Repositorio que sirve como mi espacio de aprendizaje y portafolio técnico. Aquí documento mi progreso, los proyectos que voy construyendo orientados al mundo de la ciencia de datos.<br>
 - <a targer="_blank" href="https://primarket.codershub.top/">Primarket</a>: Actualmente estoy desarrollando un ecommerce B2B con el objetivo de impactar en el marcado de las materias primas<br>
 - <a target="_blank" href="https://github.com/De1t4/ejercito-project-react-typescript">Military App</a>: Aplicación web que simula un entorno de gestión militar, permitiendo la administración basada en roles, la asignación de servicios.<br>
 - <a targer="_blank" href="https://digital-corner.netlify.app/">Digital Corner</a>: Una aplicación que te permite compartir tus posts y conectar con nuevas personas.<br>
